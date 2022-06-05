@@ -141,12 +141,10 @@ a:hover {
  #nav{
   display: flex;
   align-items: center;
-  
  }
 
  #logo{
    position: relative;
    margin: inherit;
-  
  }
 }
